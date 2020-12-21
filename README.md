@@ -1,5 +1,10 @@
 # ocr-python
 
+You can find more details in blog post : [blog.jaimedearcos.es/playing-with-ocr-libraries/](https://blog.jaimedearcos.es/playing-with-ocr-libraries/)
+
+![](ocr.jpg)
+
+
 ## Get started
 
 Install teseract MacOs
