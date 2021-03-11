@@ -17,7 +17,7 @@ Create a new python environment & install requirements
 
 ```shell script
 python -m venv en
-source env/bin/activate
+source en/bin/activate
 pip install -r requirements.txt
 ```
 
